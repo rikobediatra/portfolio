@@ -3,11 +3,11 @@ import type { ReactNode } from "react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Your Name | Senior Developer Portfolio",
+  title: "Riko Bediatra | Fullstack Developer",
   description:
     "Professional portfolio website showcasing profile, selected projects, and contact information.",
   openGraph: {
-    title: "Your Name | Senior Developer Portfolio",
+    title: "Riko Bediatra | Fullstack Developer",
     description:
       "Professional portfolio website showcasing profile, selected projects, and contact information.",
     type: "website"
