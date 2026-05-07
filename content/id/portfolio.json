@@ -1,0 +1,80 @@
+{
+  "hero": {
+    "greeting": "Haii..., Perkenalkan Saya",
+    "name": "Muhammad Riko Bediatra",
+    "role": "Software Engineer",
+    "tagline": "Saya membangun produk web yang cepat, skalabel, dan berfokus pada pengalaman pengguna.",
+    "primaryCta": "Lihat Proyek",
+    "secondaryCta": "Contact Saya"
+  },
+  "profile": {
+    "title": "Profil",
+    "description": "Sebagai Software Engineer yang berfokus pada efisiensi sistem, saya berpengalaman dalam mendigitalisasi proses bisnis yang kompleks, khususnya di sektor perbankan. Saya menguasai penggunaan teknologi modern seperti Vue.js, React, Nextjs dan Express.js untuk menciptakan aplikasi yang responsif dan scalable. Saya berdedikasi untuk memberikan performa sistem yang optimal serta membangun arsitektur aplikasi yang dapat terus berkembang sesuai kebutuhan pasar.",
+    "highlights": [
+      "1+ tahun pengalaman pengembangan fullstack engineer",
+      "Fokus pada clean architecture dan maintainability",
+      "Terbiasa memimpin kolaborasi lintas tim"
+    ]
+  },
+  "experience": {
+    "title": "Pengalaman",
+    "items": [
+      {
+        "company": "PT Bank SMBCI (Dahulu Bank BTPN)",
+        "role": "Fullstack Developer",
+        "period": "2024 - Sekarang",
+        "description": "Mengotomatisasi sistem verifikasi perbankan, mengoptimalkan efisiensi aplikasi dengan Redis dan mengembangkan layanan aplikasi perbankan yang skalabel.",
+        "techStack": ["Vue.js", "MySQL", "Express.js", "Redis",  "Docker", "Grafana", "Git"]
+      },
+      {
+        "company": "Badan Sistem Informasi Universitas Islam Indonesia",
+        "role": "Fullstack Developer (Magang)",
+        "period": "2022 - 2023",
+        "description": "Mengembangkan dashboard audit interaktif bagi berbagai level pengguna, memperbarui arsitektur API menggunakan Lumen, dan membangun sistem monitoring menggunakan Grafana.",
+        "techStack": ["React", "Lumen", "MySQL", "Grafana", "Git", "Tailwind CSS", "Redis"]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Proyek Pilihan",
+    "description": "Beberapa proyek yang mencerminkan cara saya menyelesaikan masalah nyata melalui software.",
+    "projectCta": "Lihat Proyek",
+    "items": [
+      {
+        "title": "IOU Studio",
+        "summary": "Membangun company profile yang stylish lengkap dengan CMS untuk admin",
+        "stack": ["Next.js", "MongoDB", "Cloudinary", "ShacdnUi"],
+        "link": "https://iou-studio.vercel.app/",
+        "image": "/projects/IOU Studio.svg"
+      },
+      {
+        "title": "Gema Phala App",
+        "summary": "Dashboard visualisasi internal perusahaan untuk monitoring pengeluaran gas emisi dari kendaraan",
+        "stack": ["Next.js", "TypeScript", "ShacdnUi", "Tailwind CSS", "Express"],
+        "link": "https://development-xyecg.ondigitalocean.app/login",
+        "image": "/projects/Dashboard GPA.svg"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Kontak",
+    "description": "Terbuka untuk kolaborasi proyek, konsultasi, atau peluang kerja strategis.",
+    "links": [
+      {
+        "label": "Email",
+        "value": "rikobediatraa@gmail.com",
+        "href": "mailto:rikobediatra@gmail.com"
+      },
+      {
+        "label": "LinkedIn",
+        "value": "linkedin.com/in/riko-bediatra",
+        "href": "https://www.linkedin.com/in/riko-bediatra"
+      },
+      {
+        "label": "GitHub",
+        "value": "github.com/rikobediatra",
+        "href": "https://github.com/rikobediatra"
+      }
+    ]
+  }
+}

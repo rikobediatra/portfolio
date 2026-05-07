@@ -1,7 +1,30 @@
-# This Portfolio I Made to Introduce all of You a Little About Me
+# Portfolio Next.js (Bilingual)
 
+Professional portfolio template with:
 
+- Hero, Profile, Projects, Contact sections
+- ID/EN language toggle
+- JSON-based content source
+- Rich-but-professional animations with reduced-motion support
+- Next.js + Tailwind + reusable UI components
 
-## I made this using react typescript and also scss
+## Run locally
 
-### shout out to lamadev for helping me made this portfolio and check out https://www.youtube.com/watch?v=CHGHuF24Cjw for more information about lamadev
+```bash
+npm install
+npm run dev
+```
+
+## Edit your content
+
+Update these files:
+
+- `content/id/portfolio.json`
+- `content/en/portfolio.json`
+
+## Build and lint
+
+```bash
+npm run lint
+npm run build
+```

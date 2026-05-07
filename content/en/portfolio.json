@@ -1,0 +1,80 @@
+{
+  "hero": {
+    "greeting": "Hi there! I am",
+    "name": "Muhammad Riko Bediatra",
+    "role": "Software Engineer",
+    "tagline": "Crafting high-performance, scalable web solutions with a relentless focus on seamless user experience.",
+    "primaryCta": "View Projects",
+    "secondaryCta": "Get In Touch"
+  },
+  "profile": {
+    "title": "Profile",
+    "description": "As a Software Engineer driven by system efficiency, I specialize in digitalizing complex business processes, particularly within the banking sector. I leverage modern technologies like Vue.js, React, Next.js, and Express.js to build responsive, enterprise-grade applications. I am dedicated to delivering peak system performance and engineering robust architectures that evolve alongside market demands.",
+    "highlights": [
+      "1+ year of professional Full-stack development experience",
+      "Specialized in Clean Architecture and Maintainable Codebases",
+      "Proven track record in cross-functional team collaboration"
+    ]
+  },
+  "experience": {
+    "title": "Professional Experience",
+    "items": [
+      {
+        "company": "PT Bank SMBCI (Formerly Bank BTPN)",
+        "role": "Full-stack Developer",
+        "period": "2024 - Present",
+        "description": "Automating critical banking verification systems, optimizing application throughput using Redis, and architecting scalable backend services for financial operations.",
+        "techStack": ["Vue.js", "MySQL", "Express.js", "Redis",  "Docker", "Grafana", "Git"]
+      },
+      {
+        "company": "Information Systems Bureau - Universitas Islam Indonesia",
+        "role": "Full-stack Developer (Intern)",
+        "period": "2022 - 2023",
+        "description": "Engineered interactive audit dashboards for multi-level stakeholders, modernized API architectures using Lumen, and implemented real-time monitoring systems with Grafana.",
+        "techStack": ["Next.js", "MySQL", "Grafana", "Git", "Tailwind CSS", "Redis"]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "description": "A curated selection of projects demonstrating my approach to solving real-world challenges through software engineering.",
+    "projectCta": "Explore Project",
+    "items": [
+      {
+        "title": "IOU Studio",
+        "summary": "A sophisticated company profile featuring a custom-built CMS for seamless administrative management.",
+        "stack": ["Next.js", "MongoDB", "Cloudinary", "Shacdn UI"],
+        "link": "https://iou-studio.vercel.app/",
+        "image": "/projects/IOU Studio.svg"
+      },
+      {
+        "title": "Gema Phala App",
+        "summary": "An enterprise-grade internal dashboard for visualizing and monitoring vehicle carbon emission data.",
+        "stack": ["Next.js", "TypeScript", "Shacdn UI", "Tailwind CSS", "Express"],
+        "link": "https://development-xyecg.ondigitalocean.app/login",
+        "image": "/projects/Dashboard GPA.svg"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Open for project collaborations, technical consulting, or strategic career opportunities.",
+    "links": [
+      {
+        "label": "Email",
+        "value": "rikobediatraa@gmail.com",
+        "href": "mailto:rikobediatra@gmail.com"
+      },
+      {
+        "label": "LinkedIn",
+        "value": "linkedin.com/in/riko-bediatra",
+        "href": "https://www.linkedin.com/in/riko-bediatra"
+      },
+      {
+        "label": "GitHub",
+        "value": "github.com/rikobediatra",
+        "href": "https://github.com/rikobediatra"
+      }
+    ]
+  }
+}
